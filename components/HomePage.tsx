@@ -119,7 +119,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
                 </div>
                 <div className="md:col-span-7 bg-black aspect-video">
                     <iframe 
-                        src="https://drive.google.com/file/d/184WFhwfjKwyUrVHIYkdSYLJ61qLgIXnH/preview" 
+                        src="https://www.youtube.com/watch?v=wV5TrtGUKLQ" 
                         width="100%" 
                         height="100%" 
                         allow="autoplay; fullscreen"
